@@ -11,17 +11,16 @@
 ### 🧠 À propos de moi
 
 - 🔧 Actuellement en 2e année d’école d’ingénieur
-- 💻 J’adore les projets techniques, notamment en **React, C++, Arduino et Python**
-- 🥋 Membre actif de l’association **CESI Fight Team** et cofondateur d’une association sportive étudiante
-- 📅 Je cherche une **alternance** dans l’informatique à partir de septembre 2025
+- 💻 J’adore les projets techniques, notamment en **React, C++ ou Arduino**
+- 📅 Je cherche une **alternance** dans le développement informatique à partir de septembre 2025
 
 ---
 
 ### 🛠️ Compétences techniques
 
-- **Langages** : C/C++, Python, JavaScript, HTML/CSS, Bash
+- **Langages** : C/C++, Python, JavaScript, HTML/CSS
 - **Frameworks & outils** : React, Node.js, Arduino, PlatformIO, Git, Firebase
-- **Autres** : Gestion de projet, travail en équipe
+- **Autres** : Gestion de projet, travail en équipe, autonomie
 
 ---
 
@@ -32,4 +31,4 @@
 
 ---
 
-*Merci d’avoir visité mon profil ! N’hésite pas à explorer mes projets ou à me contacter pour discuter tech 🚀*
+*Merci d’avoir visité mon profil ! N’hésite pas à explorer mes projets ou à me contacter 🚀*
